@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'TestPod'
+  s.name             = 'TestPodSwift'
   s.version          = '0.1.0'
   s.summary          = 'Greet someone with saying HelloWorld and validates email format.'
 
