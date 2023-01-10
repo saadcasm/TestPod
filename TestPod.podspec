@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '12.0'
 
-  s.source_files = 'TestPod/Source/**'
+  s.source_files = 'TestPod/Source/EmailValidator.swift'
   s.swift_version = '5.0'
   s.platforms = {
     "ios": "12.0"
