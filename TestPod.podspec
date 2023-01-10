@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 'Greet someone with saying HelloWorld and validates email format.'
                        DESC
 
-  s.homepage         = 'https://github.com/Saad Sadiq/TestPod'
+  s.homepage         = 'https://github.com/saadcasm/TestPod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Saad Sadiq' => 'saad.sadiq@nextgeni.com' }
