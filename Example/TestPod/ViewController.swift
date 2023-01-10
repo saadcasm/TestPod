@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import Pods_TestPod_Example
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        EmailValidator.sayHello()
+        print(EmailValidator.validateEmail("saad.sadiq@nextgeni.com"))
     }
 
     override func didReceiveMemoryWarning() {
