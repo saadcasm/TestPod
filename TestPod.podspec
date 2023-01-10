@@ -25,12 +25,12 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Saad Sadiq' => 'saad.sadiq@nextgeni.com' }
-  s.source           = { :git => 'https://github.com/Saad Sadiq/TestPod.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/saadcasm/TestPod.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '12.0'
 
-  s.source_files = 'TestPod/Source/**/*'
+  s.source_files = 'TestPod/Source/*.swift'
   s.swift_version = '5.0'
   s.platforms = {
     "ios": "12.0"
