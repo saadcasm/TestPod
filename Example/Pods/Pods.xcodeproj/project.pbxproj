@@ -37,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		07B24628C01B2385377427C94C817E59 /* TestPod.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = TestPod.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		07B24628C01B2385377427C94C817E59 /* TestPodSwift.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = TestPodSwift.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		0C92884507603FE9963BB56023A07810 /* Pods-TestPod_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TestPod_Example-Info.plist"; sourceTree = "<group>"; };
 		112B894B9C2941D587A15F0C2D663EAD /* Pods-TestPod_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-TestPod_Tests"; path = Pods_TestPod_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		21DBEF1D9B135BA64028BC0020EEC647 /* TestPod.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TestPod.debug.xcconfig; sourceTree = "<group>"; };
@@ -148,7 +148,7 @@
 			children = (
 				2A3CCC79E10B11A2062FCCDCC865C1E1 /* LICENSE */,
 				CDAD4D5EEE13A56233EAD806FDC95BC3 /* README.md */,
-				07B24628C01B2385377427C94C817E59 /* TestPod.podspec */,
+				07B24628C01B2385377427C94C817E59 /* TestPodSwift.podspec */,
 			);
 			name = Pod;
 			sourceTree = "<group>";
